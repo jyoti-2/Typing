@@ -1,0 +1,16 @@
+.test-container-component {
+  background-color: #fff;
+  margin: 64px 0;
+  margin-left: 10%;
+  width: 80%;
+  min-height: 750px;
+  display: flex;
+  flex-direction: column;
+}
+
+.try-again-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+}
